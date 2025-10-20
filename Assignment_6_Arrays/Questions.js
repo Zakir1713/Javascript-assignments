@@ -1,5 +1,5 @@
 // 🚀 JavaScript Assignment 6: Arrays
-// Author: [Your Name]
+// Author: [Zakir Ullah]
 
 // ===========================
 // Q1. Array Creation
@@ -63,3 +63,4 @@
 // - First number
 // - Last number
 // - Length of the array
+
